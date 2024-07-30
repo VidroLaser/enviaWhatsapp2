@@ -1,0 +1,32 @@
+[7020:19704:0730/063152.151:WARNING:chrome_main_delegate.cc(744)] This is Chrome version 127.0.6533.73 (not a warning)
+[7020:19704:0730/063152.283:INFO:chrome_browser_cloud_management_controller.cc(196)] No machine level policy manager exists.
+[7020:19704:0730/063152.352:WARNING:browser_management_service.cc(128)] EnterpriseLogoUrl fetch failed with error code -1 and MIME type 
+[25016:5076:0730/063153.276:WARNING:spdy_session.cc(2984)] Received HEADERS for invalid stream 1
+[7020:19704:0730/063153.512:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'battery'.", source:  (0)
+[7020:19704:0730/063153.512:INFO:CONSOLE(0)] "Error with Permissions-Policy header: Unrecognized feature: 'usb-unrestricted'.", source:  (0)
+[25440:18016:0730/063153.795:WARNING:angle_platform_impl.cc(49)] HLSLCompiler.cpp:250 (rx::HLSLCompiler::compileToBinary): 
+C:\fakepath(139,3-70): warning X3557: loop only executes for 1 iteration(s), forcing loop to unroll
+
+[7020:19704:0730/063156.136:INFO:CONSOLE(133)] "Event handler of 'x-storagemutated-1' event must be added on the initial evaluation of worker script.", source: https://static.whatsapp.net/rsrc.php/v3/yY/r/wktLxx2cM3Z.js?_nc_x=Ij3Wp8lg5Kz (133)
+[7020:19704:0730/063204.716:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:5152
+[7020:19704:0730/063205.255:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:265059
+[7020:19704:0730/063206.288:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:2200227
+[7020:19704:0730/063206.341:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:45144
+[7020:19704:0730/063207.289:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:4680
+[7020:19704:0730/063207.575:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:2747168
+[7020:19704:0730/063207.944:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:3844
+[7020:19704:0730/063208.460:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:1463571
+[7020:19704:0730/063215.913:WARNING:controller_impl.cc(1192)] Background download complete, client: 6, completion type: 0, file size:68665978
+[7020:19704:0730/063536.790:INFO:CONSOLE(22)] "Warning: TT: undefined function: 32", source: https://web.whatsapp.com/static_resources/webworker/pdf-worker/ (22)
+[7020:19704:0730/063603.885:INFO:CONSOLE(22)] "Warning: TT: undefined function: 32", source: https://web.whatsapp.com/static_resources/webworker/pdf-worker/ (22)
+[7020:19704:0730/063630.763:INFO:CONSOLE(22)] "Warning: TT: undefined function: 32", source: https://web.whatsapp.com/static_resources/webworker/pdf-worker/ (22)
+[7020:19704:0730/063659.176:ERROR:device_event_log_impl.cc(196)] [06:36:59.183] USB: usb_service_win.cc:105 SetupDiGetDeviceProperty({{A45C254E-DF1C-4EFD-8020-67D146A850E0}, 6}) failed: Elemento não encontrado. (0x490)
+[7020:19704:0730/063700.668:INFO:CONSOLE(22)] "Warning: TT: undefined function: 32", source: https://web.whatsapp.com/static_resources/webworker/pdf-worker/ (22)
+[7020:19704:0730/063728.649:INFO:CONSOLE(22)] "Warning: TT: undefined function: 32", source: https://web.whatsapp.com/static_resources/webworker/pdf-worker/ (22)
+[7020:19704:0730/063755.811:INFO:CONSOLE(22)] "Warning: TT: undefined function: 32", source: https://web.whatsapp.com/static_resources/webworker/pdf-worker/ (22)
+[7020:19704:0730/063823.040:INFO:CONSOLE(22)] "Warning: TT: undefined function: 32", source: https://web.whatsapp.com/static_resources/webworker/pdf-worker/ (22)
+[7020:19704:0730/063850.268:INFO:CONSOLE(22)] "Warning: TT: undefined function: 32", source: https://web.whatsapp.com/static_resources/webworker/pdf-worker/ (22)
+[7020:19704:0730/063929.807:INFO:CONSOLE(22)] "Warning: TT: undefined function: 32", source: https://web.whatsapp.com/static_resources/webworker/pdf-worker/ (22)
+[7020:19704:0730/063955.563:INFO:CONSOLE(22)] "Warning: TT: undefined function: 32", source: https://web.whatsapp.com/static_resources/webworker/pdf-worker/ (22)
+[25440:10220:0730/064004.260:ERROR:latency_info.cc(94)] CompositorFrameSinkSupport::MaybeSubmitCompositorFrame, LatencyInfo vector size 106 is too big.
+[7020:19704:0730/064106.797:WARNING:pref_notifier_impl.cc(41)] Pref observer for media_router.cast_allow_all_ips found at shutdown.
